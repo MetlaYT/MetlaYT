@@ -9,7 +9,7 @@
 
 <div align="center">
 
-### 3D Artist 
+### 3D Artist
   
 🍕 *I want pizza*
 
@@ -42,10 +42,13 @@
 ## 📊 GitHub Статистика
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MetlaYT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MetlaYT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MetlaYT&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)](https://git.io/streak-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MetlaYT&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MetlaYT&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MetlaYT&theme=tokyonight)
 
 </div>
 
@@ -63,11 +66,10 @@
 
 ## 🌟 О себе
 
-- 🎨 Создаю 3D-модели и риги в **Blender**
-- ⚙️ Разрабатываю аддоны для Blender на **Python**
-- 🎮 Занимаюсь моддингом игр на **Java**
+- 🎨 Создаю 3D-модели и рендеры в **Blender**
+- ⚙️ Разрабатываю аддоны для Blender
+- 🎮 Занимаюсь моддингом на **Java**
 - 💻 Изучаю веб-разработку
-- 🎬 Веду YouTube канал
 - 🍕 Обожаю пиццу!
 
 ---
@@ -76,7 +78,6 @@
 
 ### 💬 Связаться со мной
 
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Metla_m)
 [![Website](https://img.shields.io/badge/-Website-4A90E2?style=flat-square&logo=google-chrome&logoColor=white)](https://metla-blend.ru/)
 
 ![](https://komarev.com/ghpvc/?username=MetlaYT&color=3B82F6&style=flat-square&label=Просмотры+профиля)
