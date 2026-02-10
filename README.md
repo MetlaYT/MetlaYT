@@ -13,7 +13,7 @@
   
 🍕 *I want pizza*
 
-[🎬 YouTube](https://www.youtube.com/@Metla_m) • [🌐 Website](https://metla-blend.ru/)
+[🎬 YouTube](https://www.youtube.com/@Metla_m) • [🌐 Website]([https://metla-blend.ru/](https://metlayt.github.io/))
 
 </div>
 
@@ -78,7 +78,7 @@
 
 ### 💬 Связаться со мной
 
-[![Website](https://img.shields.io/badge/-Website-4A90E2?style=flat-square&logo=google-chrome&logoColor=white)](https://metla-blend.ru/)
+[![Website](https://img.shields.io/badge/-Website-4A90E2?style=flat-square&logo=google-chrome&logoColor=white)]([https://metla-blend.ru/](https://metlayt.github.io/))
 
 ![](https://komarev.com/ghpvc/?username=MetlaYT&color=3B82F6&style=flat-square&label=Просмотры+профиля)
 
